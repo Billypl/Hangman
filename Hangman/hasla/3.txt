@@ -1,0 +1,12 @@
+SPORTY
+tenis
+koszykowka
+kolarstwo
+narciarstwo
+pilka nozna
+rugby
+siatkowka
+pilka reczna
+golf
+baseball
+lekkoatletyka

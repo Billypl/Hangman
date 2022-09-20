@@ -1,0 +1,6 @@
+POJAZDY
+auto
+samolot
+rower
+helikopter
+motor
